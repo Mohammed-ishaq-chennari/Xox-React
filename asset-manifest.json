@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Xox-React/static/css/main.b2e307cb.css",
+    "main.js": "/Xox-React/static/js/main.d15ce671.js",
+    "static/js/787.84936501.chunk.js": "/Xox-React/static/js/787.84936501.chunk.js",
+    "index.html": "/Xox-React/index.html",
+    "main.b2e307cb.css.map": "/Xox-React/static/css/main.b2e307cb.css.map",
+    "main.d15ce671.js.map": "/Xox-React/static/js/main.d15ce671.js.map",
+    "787.84936501.chunk.js.map": "/Xox-React/static/js/787.84936501.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2e307cb.css",
+    "static/js/main.d15ce671.js"
+  ]
+}
